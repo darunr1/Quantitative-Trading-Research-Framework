@@ -477,33 +477,9 @@ python -m src.trading_bot --help
 4. **Scale Up** → Use portfolio mode to trade multiple assets
 5. **Go Live** → Switch to real broker (with extreme caution!)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built with Python, pandas, and numpy
-- Alpaca Markets for broker API integration
-- Yahoo Finance for free market data
-
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Review the [Examples](#examples) section
-3. Open an issue on GitHub
 
 ---
 
